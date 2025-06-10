@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+joblib
+pandas
+# ...any other libraries you're using
